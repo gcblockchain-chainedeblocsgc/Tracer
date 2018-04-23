@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="245px" height="50px" viewBox="0 0 245 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Seller-Dashboard" transform="translate(-153.000000, -17.000000)">
+            <g id="Group" transform="translate(154.000000, 7.000000)">
+                <g id="Logo" transform="translate(0.000000, 14.000000)">
+                    <path d="M51.6818142,14.654053 C55.1176567,25.5199084 49.130885,37.1250651 38.3098457,40.5756434 C27.4888063,44.0257157 15.931515,38.0141494 12.4951685,27.148294 C9.05932598,16.2824386 15.0460976,4.6767759 25.867137,1.22670361 C36.6881764,-2.2238747 48.2459717,3.78769157 51.6818142,14.654053 Z" id="Stroke-1" stroke="#FFFFFF" stroke-width="2.5"></path>
+                    <path d="M63.8365732,10.7491663 C65.006715,14.4492145 51.7370457,21.9808771 34.198526,27.5734554 C16.6600063,33.1655277 1.49351811,34.6992867 0.323880315,31.0002506 C-0.846261417,27.3002024 12.4234079,19.7675277 29.9619276,14.1754554 C47.5004472,8.58388916 62.6669354,7.0496241 63.8365732,10.7491663 Z" id="Stroke-3" stroke="#FFFFFF" stroke-width="2.5"></path>
+                    <path d="M24.8855685,15.3873831 C25.5527811,17.4975036 24.3901984,19.7513349 22.2887811,20.4213108 C20.1873638,21.0912867 17.9428283,19.9238892 17.2756157,17.8137687 C16.6084031,15.7036482 17.7709858,13.4498169 19.8724031,12.779841 C21.9738205,12.109359 24.2183559,13.2772627 24.8855685,15.3873831" id="Fill-5" fill="#FFFFFF"></path>
+                    <path d="M47.3503748,22.251347 C48.0175874,24.3614675 46.8550047,26.6152988 44.7535874,27.2852747 C42.6521701,27.9547446 40.4076346,26.787853 39.740422,24.6777325 C39.0732094,22.567612 40.2357921,20.3137807 42.3372094,19.6438048 C44.4386268,18.9733229 46.6831622,20.1412265 47.3503748,22.251347" id="Fill-7" fill="#FFFFFF"></path>
+                </g>
+                <text id="TRACER" font-family="Montserrat-Bold, Montserrat" font-size="40" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="78.34" y="39">TRACER</tspan>
+                </text>
+                <text id="Drug-Tracking-System" font-family="Avenir-Heavy, Avenir" font-size="12" font-weight="600" fill="#FFFFFF">
+                    <tspan x="101.27" y="57">Drug Tracking System</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

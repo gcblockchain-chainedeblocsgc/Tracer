@@ -1,0 +1,109 @@
+{{> head title='Title coming soon..'}}
+  <body>
+     {{> header login=true}}
+    <main>
+      <div id="bc-content">
+
+<!-- JQUERY AND FONTAWESOME INSTALLED-->
+<div id="container">
+  <div class="tabs">
+    <div class="tab tab-link current" data-tab="tab-1">Sign In</div>
+    <div class="tab tab-link" data-tab="tab-2">Register</div>
+  </div>
+  <form class="tab-content current login" action="" id="tab-1">
+    <div class="form-div">
+      <div class="input-area">
+        <input class="input" type="text" placeholder="Enter Your ID"/>
+        <div class="input-icon fa fa-user"></div>
+      </div>
+    </div>
+    <div class="form-div">
+      <div class="input-area">
+        <input class="input" type="password" placeholder="Enter Your Pasword"/>
+        <div class="input-icon fa fa-lock"></div>
+      </div>
+    </div>
+    <div class="form-footer ">
+      <a href="dashboard.html"><button> <span>Login</span><span class="fa fa-sign-in"></span></button></a>
+    </div>
+    <div class="bc-left">  
+          <a class="login-color" href="">As Seller</a>
+          <a class="login-color buyer" href="">As Buyer</a>
+          </div>
+  </form>
+  <form class="tab-content register" action="" id="tab-2">
+    <div class="form-div">
+      <div class="input-area">
+        <input class="input" type="text" placeholder="What is your role?"/>
+        <div class="input-icon fa fa-user"></div>
+      </div>
+    </div>
+     <div class="form-div">
+      <div class="input-area">
+        <input class="input" type="text" placeholder="Name"/>
+        <div class="input-icon fa fa-user"></div>
+      </div>
+    </div>
+     <div class="form-div">
+      <div class="input-area">
+        <input class="input" type="text" placeholder="ID Number / Passport"/>
+        <div class="input-icon fa fa-user"></div>
+      </div>
+    </div>
+     <div class="form-div">
+      <div class="input-area">
+        <input class="input" type="text" placeholder="Company Name"/>
+        <div class="input-icon fa fa-user"></div>
+      </div>
+    </div>
+     <div class="form-div">
+      <div class="input-area">
+        <input class="input" type="text" placeholder="Company Address"/>
+        <div class="input-icon fa fa-user"></div>
+      </div>
+    </div>
+     <div class="form-div">
+      <div class="input-area">
+        <input class="input" type="text" placeholder="Company Registration"/>
+        <div class="input-icon fa fa-user"></div>
+      </div>
+    </div>
+     <div class="form-div">
+      <div class="input-area">
+        <input class="input" type="text" placeholder="Position in company"/>
+        <div class="input-icon fa fa-user"></div>
+      </div>
+    </div>
+     <div class="form-div">
+      <div class="input-area">
+        <input class="input" type="text" placeholder="Country"/>
+        <div class="input-icon fa fa-user"></div>
+      </div>
+    </div>
+     <div class="form-div">
+      <div class="input-area">
+        <input class="input" type="text" placeholder="New username"/>
+        <div class="input-icon fa fa-user"></div>
+      </div>
+    </div>
+     <div class="form-div">
+      <div class="input-area">
+        <input class="input" type="text" placeholder="New Password"/>
+        <div class="input-icon fa fa-user"></div>
+      </div>
+    </div>
+    <div class="form-footer">
+      <button> <span>Register</span><span class="fa fa-user-plus"></span></button>
+    </div>
+  </form>
+</div>
+      </div>
+    </main>
+    <script src="js/libs/jquery.min.js"></script>
+    <script src="js/bundle.js"></script>
+    <script>
+    AOS.init();
+    </script>
+      {{> footer}}
+  </body>
+</html>
